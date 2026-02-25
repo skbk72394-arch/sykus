@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: sykus
+Version: 3.0.0
+Summary: The World's Most Frustration-Free Programming Language
+Author: Sykus Team
+Requires-Python: >=3.8
+Requires-Dist: colorama>=0.4.4
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
