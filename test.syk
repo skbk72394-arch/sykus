@@ -1,3 +1,0 @@
-let name = "World";
-say "Hello {name}";
-say system.get_os();

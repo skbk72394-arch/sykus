@@ -4,10 +4,13 @@ Sykus Setup Script
 """
 
 from setuptools import setup, find_packages
-
+# setup.py ke andar ye line dhoondo aur change karo:
 setup(
-    name='sykus',
-    version="5.1.2",
+    name="sykus",
+    version="5.0.1",  # Isse 5.0.0 se badal kar 5.0.1 karo
+    ...
+)
+
     description='The World\'s Most Frustration-Free Programming Language',
     author='Sykus Team',
     packages=find_packages(),
