@@ -1,5 +1,12 @@
 README.md
+environment.py
+evaluator.py
+lexer.py
+main.py
+parser.py
 setup.py
+stdlib.py
+syk_ast.py
 bridge/__init__.py
 bridge/polyglot.py
 cli/__init__.py
@@ -12,6 +19,14 @@ ghost/__init__.py
 ghost/dependency_manager.py
 healer/__init__.py
 healer/auto_healer.py
+src/__init__.py
+src/ast.py
+src/environment.py
+src/evaluator.py
+src/main.py
+src/parser.py
+src/stdlib.py
+src/tokenizer.py
 state/__init__.py
 state/smart_memory.py
 sykus.egg-info/PKG-INFO

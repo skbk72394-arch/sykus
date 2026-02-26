@@ -2,6 +2,14 @@ bridge
 cli
 core
 engine
+environment
+evaluator
 ghost
 healer
+lexer
+main
+parser
+src
 state
+stdlib
+syk_ast

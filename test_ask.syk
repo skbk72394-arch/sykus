@@ -1,0 +1,2 @@
+ask "Enter your name: " save to name;
+say "Your name is {name}";

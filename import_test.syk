@@ -1,0 +1,2 @@
+import "lib.syk";
+say_hi();

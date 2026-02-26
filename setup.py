@@ -7,13 +7,14 @@ from setuptools import setup, find_packages
 
 setup(
     name='sykus',
-    version='3.0.0',
+    version='5.0.0',
     description='The World\'s Most Frustration-Free Programming Language',
     author='Sykus Team',
     packages=find_packages(),
+    py_modules=['lexer', 'parser', 'evaluator', 'environment', 'stdlib', 'syk_ast', 'main'],
     entry_points={
         'console_scripts': [
-            'syk=cli.syk_cli:main',
+            'syk=main:main',
         ],
     },
     install_requires=[

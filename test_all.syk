@@ -1,0 +1,23 @@
+let name = "SK";
+say name;
+
+if 20 >= 18 {
+    say "Yes";
+} else {
+    say "No";
+}
+
+func calculate(a, b) {
+    return a + b;
+}
+say calculate(10, 5);
+
+let arr = [1, 2, 3];
+say arr[0];
+
+let dic = {"key": "value"};
+say dic["key"];
+
+say math.floor(4.5);
+say system.get_os();
+say ai.ask("Hello");

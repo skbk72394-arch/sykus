@@ -1,0 +1,3 @@
+func say_hi() {
+    say "Hi from lib!";
+}

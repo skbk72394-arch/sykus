@@ -1,2 +1,2 @@
 [console_scripts]
-syk = cli.syk_cli:main
+syk = main:main
